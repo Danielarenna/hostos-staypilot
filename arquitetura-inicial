@@ -1,0 +1,67 @@
+# Arquitetura Inicial do Aplicativo
+
+## Objetivo
+
+Definir a estrutura tecnológica necessária para construir a primeira versão do aplicativo.
+
+## Aplicativo
+
+O produto será desenvolvido inicialmente como um aplicativo mobile, permitindo acesso pelo celular.
+
+## Usuários
+
+O sistema terá dois tipos principais:
+
+### Anfitrião
+
+Poderá:
+- cadastrar imóveis;
+- acompanhar reservas;
+- gerenciar comunicação;
+- analisar desempenho.
+
+### Hóspede
+
+Poderá:
+- acessar informações da hospedagem;
+- consultar guia digital;
+- receber orientações.
+
+## Banco de dados
+
+Responsável por armazenar:
+
+- usuários;
+- imóveis;
+- reservas;
+- mensagens;
+- avaliações;
+- informações dos hóspedes.
+
+## Inteligência artificial
+
+Possíveis aplicações futuras:
+
+- criação automática de mensagens;
+- sugestão de preços;
+- análise de avaliações;
+- recomendações personalizadas.
+
+## Primeira versão (MVP)
+
+Prioridades:
+
+1. Cadastro de usuário;
+2. Cadastro do imóvel;
+3. Guia digital;
+4. Comunicação básica;
+5. Painel simples.
+
+## Evolução futura
+
+Adicionar:
+
+- integração com plataformas de aluguel;
+- automações avançadas;
+- análise de mercado;
+- múltiplos imóveis.
